@@ -1,0 +1,26 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "this is a learning react process using Frontend mentor BHOLT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharkdevs/react-refresh-bholt.git"
+  },
+  "keywords": [
+    "BHOLT",
+    "Frontend",
+    "Masters",
+    "Learning",
+    "react"
+  ],
+  "author": "sharkdevs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharkdevs/react-refresh-bholt/issues"
+  },
+  "homepage": "https://github.com/sharkdevs/react-refresh-bholt#readme"
+}
